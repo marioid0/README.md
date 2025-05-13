@@ -82,7 +82,7 @@ Olá me chamo Mário Desidério do Nascimento, tenho 17 anos, cursando Desenvolv
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioid0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
