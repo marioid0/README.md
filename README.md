@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá me chamo Mário Desidério do Nascimento, tenho 17 anos, cursando Desenvolvimento de Sistemas na E.E.E.P Maria Célia Pinheiro Falcão. Considero-me um estusiasta pela tecnologia e gosto de fazer projetos avulsos para testar minhas capacidades e testar novos conceitos.
+Olá me chamo Mário Desidério do Nascimento, tenho 17 anos e curso Desenvolvimento de Sistemas na E.E.E.P Maria Célia Pinheiro Falcão. Sou um estusiasta pela tecnologia e gosto de fazer projetos avulsos para testar minhas capacidades e testar novos conceitos.
 
 ---
 
